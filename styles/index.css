@@ -13,7 +13,7 @@
 }
 #wrap header .title_pre > a {}
 #wrap header .title_pre > a img {}
-#wrap header nav {position: relative; bottom: 10px;}
+#wrap header nav {}
 #wrap header nav ul {}
 #wrap header nav ul li {float: left;}
 #wrap header nav ul li {margin-right: 80px;}
